@@ -4,7 +4,7 @@ Welcome to the PxGame organization! This organization is dedicated to creating a
 
 ## About PxGame
 
-PxGame was a small idea the first owner "William" had to clone pixelplanet. All credits for the original concept go to the owner of pixelplanet.fun.
+PxGame was a small idea the first owner "William Tayeh" had to clone pixelplanet. All credits for the original concept go to the owner of pixelplanet.fun.
 
 ## Discord Community
 
